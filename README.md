@@ -1,11 +1,1 @@
-This is the read me.
-
-
-_Font stuff_
-
-__Lots of fun__
-
-Heading
-*******
-
-One last one
+First sample project from the rust book.
